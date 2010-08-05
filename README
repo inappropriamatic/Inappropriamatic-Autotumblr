@@ -1,0 +1,9 @@
+Autotumblr
+
+What it does: Autotumblr pulls a single random image out of your porn folder and posts it.  If the post was successful, it moves the image to a different folder.
+
+How to use it:  change the config path variable in autotumblr.py, then change the config file to suit your system.  Then tell cron to run it however often you want.
+
+How to get it:  http://github.com/inappropriamatic/Inappropriamatic-Autotumblr
+
+Where it is used: http://inappropriamatic-b.tumblr.com/archive
